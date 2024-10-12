@@ -25,17 +25,17 @@ Qiskit은 클라우드 시스템을 통해 양자 컴퓨터에 접근하고 양�
 
 ## 일정
 
-### 전체적인 일정표(진행 날짜 및 시간은 아직 확정이 아니며 10월 초에 확정할 예정)
+### 전체적인 일정표
 
-| 시간(KST)               | 진행 방식 및 장소           | 내용        | 비고                                                  |
-| ----------------------- | --------------------------- | ----------- | ----------------------------------------------------- |
-| 11/2(토) 10:00~12:00    | online                      | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/3(일) 오후 6시 전까지 시청 |
-| 11/3(일) 19:00~21:00 PM | online                      | 워크숍 1    | 실시간 참여 혹은 녹화본 11/4(월) 자정까지 시청        |
-| 11/5(화) 19:00~21:00 PM | online                      | 워크숍 2    | 실시간 참여 혹은 녹화본 11/6(수) 자정까지 시청        |
-| 11/7(목) 18:00~21:00    | offline (장소 TBD)          | 워크숍 3    | 오프라인으로 필수 참여                                |
-| 11/9(토) 10:00~12:00    | online                      | 워크숍 4    | 실시간 참여 혹은 녹화본 11/11(월) 자정까지 시청       |
-| 11/12(화) 19:00~21:00   | online & offline (장소 TBD) | 워크숍 5    | 실시간 참여 혹은 녹화본 11/14(목) 자정까지 시청       |
-| 11/15(금) 18:00~22:00   | offline (장소 TBD)          | Challenge   |                                                       |
+| 시간(KST)             | 진행 방식 및 장소           | 내용        | 비고                                                  |
+| --------------------- | --------------------------- | ----------- | ----------------------------------------------------- |
+| 11/2(토) 10:00~12:00  | online                      | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/3(일) 오후 6시 전까지 시청 |
+| 11/3(일) 19:00~21:00  | online                      | 워크숍 1    | 실시간 참여 혹은 녹화본 11/4(월) 자정까지 시청        |
+| 11/5(화) 19:00~21:00  | online                      | 워크숍 2    | 실시간 참여 혹은 녹화본 11/6(수) 자정까지 시청        |
+| 11/7(목) 18:00~21:00  | offline (장소 TBD)          | 워크숍 3    | 오프라인으로 필수 참여                                |
+| 11/9(토) 10:00~12:00  | online                      | 워크숍 4    | 실시간 참여 혹은 녹화본 11/11(월) 자정까지 시청       |
+| 11/12(화) 19:00~21:00 | online & offline (장소 TBD) | 워크숍 5    | 실시간 참여 혹은 녹화본 11/14(목) 자정까지 시청       |
+| 11/15(금) 18:00~22:00 | offline (장소 TBD)          | Challenge   |                                                       |
 
 **온라인으로 진행되는 워크숍 녹화본은 각 워크숍 이후 제공될 예정입니다.**
 
@@ -209,17 +209,17 @@ We look forward to meeting the participants at the 2024 Qiskit Fall Fest at Kore
 
 ## Schedule
 
-### Summarized timetable (The event date and time have not been confirmed yet and are expected to be determined in early October.)
+### Summarized timetable
 
-| Time(KST)                | type & place                 | content         | note                                                                      |
-| ------------------------ | ---------------------------- | --------------- | ------------------------------------------------------------------------- |
-| 11/2(Sat) 10:00~12:00    | online                       | kickoff meeting | Participate in real time or watch the recording until 18:00 on 11/3(Sun)  |
-| 11/3(Sun) 19:00~21:00 PM | online                       | Workshop 1      | Participate in real time or watch the recording unitl 23:59 on 11/4(Mon)  |
-| 11/5(Tue) 19:00~21:00 PM | online                       | Workshop 2      | Participate in real time or watch the recording unitl 23:59 on 11/6(Wed)  |
-| 11/7(Thu) 18:00~21:00    | offline (Place TBD)          | Workshop 3      | Participate in offline                                                    |
-| 11/9(Sat) 10:00~12:00    | online                       | Workshop 4      | Participate in real time or watch the recording unitl 23:59 on 11/11(Mon) |
-| 11/12(Tue) 19:00~21:00   | online & offline (Place TBD) | Workshop 5      | Participate in real time or watch the recording unitl 23:59 on 11/14(Thu) |
-| 11/15(Fri) 18:00~22:00   | offline (Place TBD)          | Challenge       |                                                                           |
+| Time(KST)              | type & place                 | content         | note                                                                      |
+| ---------------------- | ---------------------------- | --------------- | ------------------------------------------------------------------------- |
+| 11/2(Sat) 10:00~12:00  | online                       | kickoff meeting | Participate in real time or watch the recording until 18:00 on 11/3(Sun)  |
+| 11/3(Sun) 19:00~21:00  | online                       | Workshop 1      | Participate in real time or watch the recording unitl 23:59 on 11/4(Mon)  |
+| 11/5(Tue) 19:00~21:00  | online                       | Workshop 2      | Participate in real time or watch the recording unitl 23:59 on 11/6(Wed)  |
+| 11/7(Thu) 18:00~21:00  | offline (Place TBD)          | Workshop 3      | Participate in offline                                                    |
+| 11/9(Sat) 10:00~12:00  | online                       | Workshop 4      | Participate in real time or watch the recording unitl 23:59 on 11/11(Mon) |
+| 11/12(Tue) 19:00~21:00 | online & offline (Place TBD) | Workshop 5      | Participate in real time or watch the recording unitl 23:59 on 11/14(Thu) |
+| 11/15(Fri) 18:00~22:00 | offline (Place TBD)          | Challenge       |                                                                           |
 
 ### ✨ Kickoff meeting ✨
 
