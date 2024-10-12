@@ -2,7 +2,192 @@
 
 ![img1](./img/Qiskit_Fall-Fest_Wallpaper-01.jpg)
 
-"The explanation in Korean can be found below the English explanation"
+"The explanation in English can be found below the Korean explanation"
+
+## 환영합니다!
+
+2024 Qiskif Fall Fest at Korea University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 고려대학교 양자정보과학 학술동아리 [QUICK](https://quick-website.github.io/)(QUantum Information Club at Korea University)에서 기획하고 진행합니다. 이 행사는 고려대학교 학생들만을 위한 행사입니다!
+
+Qiskit은 클라우드 시스템을 통해 양자 컴퓨터에 접근하고 양자 회로를 설계할 수 있도록 설계된 IBM이 개발한 오픈 소스 양자 컴퓨팅 프레임워크입니다.
+
+양자컴퓨터에 잘 모르는 학생들이 양자컴퓨터에 관심을 가질 수 있도록 도와주는 것이 이번 행사의 목적입니다. "Challenge"의 형태로 행사를 진행할 예정이며, 참가자들은 도전 문제를 차근차근 풀어나가면서 양자컴퓨터를 다룰 수 있게 됩니다.
+
+"Challenge" 란, 주최측이 제시하는 문제들을 풀어나가는 행사를 말합니다. 도전 문제들은 양자컴퓨터를 전혀 몰랐던 학생들도 풀 수 있는 아주 기본적인 문제를 시작으로 난이도가 점차 높아질 것입니다. 문제와 함께 문제를 풀기 위해 알아야할 내용에 대한 설명도 제시가 될 것입니다. 제공 되는 설명들을 보며 도전 문제를 풀어나가다보면, 양자컴퓨터를 활용하는 기초적인 능력을 갖추게 될 것입니다. 본격적인 "Challenge"를 하기 전에도 양자컴퓨터 분야를 소개하고 Qiskit을 이용하여 코딩하는 방법을 알려주는 워크숍도 진행됩니다.
+
+2024 Qiskif Fall Fest at Korea University에서 참가자분들을 만나 뵐 수 있기를 기대하며, 양자컴퓨터에 대해 잘 모르시는 분도 대환영입니다! 양자컴퓨터가 무엇인지 궁금하신 분들은 주저하지 마시고 신청해주세요!
+
+금전적, 행정적인 지원을 해주신 고려대학교(주관) 양자대학원에 감사 인사 드립니다.
+
+## Support
+
+<img src="./img/support/support2.png" width="300" height="60"/>
+<img src="./img/support/support1.png" width="300" height="300"/>
+
+## 일정
+
+### 전체적인 일정표(진행 날짜 및 시간은 아직 확정이 아니며 10월 초에 확정할 예정)
+
+| 시간(KST)               | 진행 방식 및 장소           | 내용        | 비고                                                  |
+| ----------------------- | --------------------------- | ----------- | ----------------------------------------------------- |
+| 11/2(토) 10:00~12:00    | online                      | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/3(일) 오후 6시 전까지 시청 |
+| 11/3(일) 19:00~21:00 PM | online                      | 워크숍 1    | 실시간 참여 혹은 녹화본 11/4(월) 자정까지 시청        |
+| 11/5(화) 19:00~21:00 PM | online                      | 워크숍 2    | 실시간 참여 혹은 녹화본 11/6(수) 자정까지 시청        |
+| 11/7(목) 18:00~21:00    | offline (장소 TBD)          | 워크숍 3    | 오프라인으로 필수 참여                                |
+| 11/9(토) 10:00~12:00    | online                      | 워크숍 4    | 실시간 참여 혹은 녹화본 11/11(월) 자정까지 시청       |
+| 11/12(화) 19:00~21:00   | online & offline (장소 TBD) | 워크숍 5    | 실시간 참여 혹은 녹화본 11/14(목) 자정까지 시청       |
+| 11/15(금) 18:00~22:00   | offline (장소 TBD)          | Challenge   |                                                       |
+
+**온라인으로 진행되는 워크숍 녹화본은 각 워크숍 이후 제공될 예정입니다.**
+
+**위 표의 비고란에 적힌 내용을 따르지 않을 경우 Challenge 참여가 제한될 수 있습니다**
+
+### ✨ 킥오프 미팅 ✨
+
+_Session Details: 11/2/2024(토), online, 10:00~12:00_
+
+킥오프 미팅은 행사 주최자와 행사 참여자들이 온라인 상에서 처음으로 만나는 자리입니다. Qiskit Fall Fest at Korea University 의 자세한 일정에 대한 안내와 주의사항에 대해 안내드릴 예정입니다. 양자컴퓨터의 역사와 양자컴퓨터의 필요성에 대해서도 가볍게 다룰 것입니다.
+
+### 💡 Qiskit Fall Fest 워크숍 1: 기초적인 선형대수 및 양자 회로 구성법 💡
+
+_Session Details: 11/3/2024(일), online, 19:00~21:00_
+
+첫번째 워크숍에서는 양자컴퓨터에서 연산이 어떻게 작동하는지 이해하기 위해서 필요한 수학적 배경지식 대하여 설명드릴 예정입니다. 이 시간에는 기초 선형대수, 단일 큐빗, 다중 큐빗 상태에 대해 배울 예정입니다. 고등학교 수학 정도만 알고 있어도 내용을 이해하실 수 있도록 기획하였으나, 1학년 수준의 기초 미적분학을 수강하셨거나, 선형대수를 배우신 적 있다면 더 이해하기 쉬우실 것입니다.
+
+### 💡 Qiskit Fall Fest 워크숍 2: 양자컴퓨터로 무엇을 할 수 있을까? 💡
+
+_Session Details: 11/5/2024(화), online, 19:00~21:00_
+
+두번째 워크숍에서는 양자알고리즘 관점에서 양자컴퓨터를 이용하여 우리가 무엇을 할 수 있는지 다룹니다. 그로버 알고리즘(Grover's Algorithm), 양자 원격 전송(Quantum Teleportation)에 대해 자세히 설명드릴 예정입니다.
+
+### 💡 Qiskit Fall Fest 워크숍 3: 연구원 초청 워크숍 💡
+
+_Session Details: 11/7/2024(목), offline 장소 TBD, 18:00~21:00_
+
+두번째 워크숍에서는 양자컴퓨터를 이용하여 우리가 무엇을 할 수 있는지, 그리고 양자컴퓨터 관련된 연구분야는 어떠한 것들이 있는지 소개해드릴 예정입니다. 양자정보과학 분야에서 연구하시는 연구원분들을 초빙하여 진행할 예정입니다. 연구원분들께서 진행하고 계신 분야에 대한 소개 및 양자컴퓨터를 사용하여 진행하였던 프로젝트에 대해 소개해주실 예정입니다.
+
+### 💡 Qiskit Fall Fest 워크숍 4: Qiskit 사용 방법 💡
+
+_Session Details: 11/9/2024(토), online, 10:00~12:00_
+
+네번째 워크샵에서는 Qiskit 개발 환경을 설정하고 IBM의 양자 컴퓨터 및 시뮬레이터에서 양자 회로를 실행하는 방법에 대해 설명합니다.
+
+### 💡 Qiskit Fall Fest 워크숍 5: Challenge 행사 시작 전 어떠한 것들을 준비하면 좋을까? 💡
+
+_Session Details: 11/12/2024(화), online & offline 장소 TBD, 19:00~21:00_
+
+다섯번째 워크숍에서는 11/16(토)에 진행되는 Challenge 행사에서 제시되는 도전문제 유형을 안내하고 도전문제 예시를 함께 풀어봅니다. Qiskit 개발 환경 설정에 어려움이 있으신 분들께서는 오프라인으로 오셔서 도움을 받으실 수 있습니다. 또한 Challenge 행상 전에 Qiskit과 양자컴퓨팅에 대해 공부하기 좋은 자료를 추천해드립니다.
+
+### 🎉 Challenge: Main Event 🎉
+
+_Event Details: 11/16/2024(토), offline 장소 TBD, 18:00~22:00_
+
+| time        | content                     |
+| ----------- | --------------------------- |
+| 18:00~18:10 | 개회                        |
+| 18:10~18:40 | 연사 초청 세션              |
+| 18:40       | 도전 문제 공개 및 식사 제공 |
+| 21:40       | 도전 문제 풀기 마감         |
+| 21:40~21:50 | 시상식 준비                 |
+| 21:50~22:00 | 행사 후 설문 및 마무리      |
+
+## 연사 소개
+
+### 킥오프미팅
+
+<img src="./img/speakers/speaker1.jpg" width="300" height="300"/>
+
+#### 김보성, Korea Technical Enablement Lead, IBM Quantum
+
+_11/2/2024(토) 10:00_
+
+주제:
+- 양자컴퓨터란 무엇인가?
+- 양자컴퓨터의 역사 및 양자컴퓨팅 산업 트렌드
+- IBM Quantum의 비전
+
+### 워크숍 3
+
+<img src="./img/speakers/speaker2.jpg" width="300" height="400"/>
+
+#### 민건식, 고려대학교 전기전자공학부 [CIS 연구실](https://cislab.korea.ac.kr/)
+
+_11/7/2024(목) 18:00_
+
+주제:
+- 양자정보과학 분야 동향
+- CIS 연구실 소개
+
+<img src="./img/speakers/speaker3.jpg" width="300" height="397"/>
+
+#### 강유진, 고려대학교 전기전자공학부 [CIS 연구실](https://cislab.korea.ac.kr/)
+
+_11/7/2024(목) 18:30_
+
+주제:
+- 양자 오류 발생 및 그 오류를 해결하기 위한 QEC와 QEM
+
+<img src="./img/speakers/speaker4.jpg" width="252" height="400"/>
+
+#### 노지민, 고려대학교 전기전자공학부 [AIM 연구실](https://aimlab-kuee.github.io/)
+
+_11/7/2024(목) 19:10_
+
+주제:
+- 자율주행자동차와 양자머신러닝
+
+### Challenge 개회
+
+#### 윤은식, 고려대학교 물리학과 [KU-AQIL 연구실](https://aqil.korea.ac.kr)
+
+_11/15/2024(금) 18:10_
+
+주제:
+- Rydberg quantum computer
+
+
+## ❗안내사항❗
+
+### 이 행사에 참여하기 위해 필요한 배경지식
+
+- 파이썬 코딩 경험
+  - 조건문, 반복문, 함수 문법에 대하여 알고 계시면 됩니다.
+- 수학
+  - 확률이 무엇인지, 스칼라와 벡터의 차이가 무엇인지, 행렬이 무엇인지 알고 계시면 됩니다.
+  - 기초적인 선형대수 지식이 있으면 더욱 좋습니다.
+
+### 참가자 준비물
+
+- 개인 노트북, 충전기
+
+### 참가자에게 제공되는 물품
+
+- 석식, 다과
+- 기념품
+- 수료증(IBM, 고려대학교(주관) 양자대학원)
+
+### IBM Quantum Community [행동강령](https://docs.quantum.ibm.com/open-source/code-of-conduct)
+
+### 등록
+
+- 마감기한: 10/31/2024(목) 23:59
+- 참가비: 20,000
+- 모집 인원: 최대 40명
+- 신청자가 많을 경우 조기 마감될 수 있습니다.
+- 신청서를 성실히 작성하지 않으신 경우 Qiskit Fall Fest 참여가 어려우실 수 있습니다.
+- 참가 신청서: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeI_eoVo3Wdje0CuVzaCoZXRj6Bjvm2L5jy-bKZXz05XmXRCw/viewform?usp=sf_link)
+
+### 시상품
+
+- 상위 3명에게 Qiskit Swag Pack 제공
+- 상위 5명에게 상금 제공
+
+### 문의사항 있는 경우
+
+- 아래의 링크를 통해 카카오톡 오픈채팅방에서 문의해주시거나 e-mail을 통해 문의해주시길 바랍니다.
+- open-kakao chatroom: TBD
+- e-mail: kuquickofficial@gmail.com
+
+---
 
 ## Welcome!!
 
@@ -30,7 +215,7 @@ We look forward to meeting the participants at the 2024 Qiskit Fall Fest at Kore
 | 11/2(Sat) 10:00~12:00    | online                       | kickoff meeting | Participate in real time or watch the recording until 18:00 on 11/3(Sun)  |
 | 11/3(Sun) 19:00~21:00 PM | online                       | Workshop 1      | Participate in real time or watch the recording unitl 23:59 on 11/4(Mon)  |
 | 11/5(Tue) 19:00~21:00 PM | online                       | Workshop 2      | Participate in real time or watch the recording unitl 23:59 on 11/6(Wed)  |
-| 11/7(Thu) 19:00~21:00    | offline (Place TBD)          | Workshop 3      | Participate in offline                                                    |
+| 11/7(Thu) 18:00~21:00    | offline (Place TBD)          | Workshop 3      | Participate in offline                                                    |
 | 11/9(Sat) 10:00~12:00    | online                       | Workshop 4      | Participate in real time or watch the recording unitl 23:59 on 11/11(Mon) |
 | 11/12(Tue) 19:00~21:00   | online & offline (Place TBD) | Workshop 5      | Participate in real time or watch the recording unitl 23:59 on 11/14(Thu) |
 | 11/15(Fri) 18:00~22:00   | offline (Place TBD)          | Challenge       |                                                                           |
@@ -55,7 +240,7 @@ We will explore what can be achieved using quantum computers from a quantum algo
 
 ### 💡 Qiskit Fall Fest Workshop 3: Guest speaker session 💡
 
-_Session Details: 11/7/2024(Thu), offline Place TBD, 19:00~21:00_
+_Session Details: 11/7/2024(Thu), offline Place TBD, 18:00~21:00_
 
 TBD
 
@@ -125,136 +310,4 @@ TBD
 
 - Please contact us through the Kakaotalk open chat linked below or via e-mail.
 - Open-kakao chat room: TBD
-- e-mail: kuquickofficial@gmail.com
-
----
-
-## 환영합니다!
-
-2024 Qiskif Fall Fest at Korea University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 고려대학교 양자정보과학 학술동아리 [QUICK](https://quick-website.github.io/)(QUantum Information Club at Korea University)에서 기획하고 진행합니다. 이 행사는 고려대학교 학생들만을 위한 행사입니다!
-
-Qiskit은 클라우드 시스템을 통해 양자 컴퓨터에 접근하고 양자 회로를 설계할 수 있도록 설계된 IBM이 개발한 오픈 소스 양자 컴퓨팅 프레임워크입니다.
-
-양자컴퓨터에 잘 모르는 학생들이 양자컴퓨터에 관심을 가질 수 있도록 도와주는 것이 이번 행사의 목적입니다. "Challenge"의 형태로 행사를 진행할 예정이며, 참가자들은 도전 문제를 차근차근 풀어나가면서 양자컴퓨터를 다룰 수 있게 됩니다.
-
-"Challenge" 란, 주최측이 제시하는 문제들을 풀어나가는 행사를 말합니다. 도전 문제들은 양자컴퓨터를 전혀 몰랐던 학생들도 풀 수 있는 아주 기본적인 문제를 시작으로 난이도가 점차 높아질 것입니다. 문제와 함께 문제를 풀기 위해 알아야할 내용에 대한 설명도 제시가 될 것입니다. 제공 되는 설명들을 보며 도전 문제를 풀어나가다보면, 양자컴퓨터를 활용하는 기초적인 능력을 갖추게 될 것입니다. 본격적인 "Challenge"를 하기 전에도 양자컴퓨터 분야를 소개하고 Qiskit을 이용하여 코딩하는 방법을 알려주는 워크숍도 진행됩니다.
-
-2024 Qiskif Fall Fest at Korea University에서 참가자분들을 만나 뵐 수 있기를 기대하며, 양자컴퓨터에 대해 잘 모르시는 분도 대환영입니다! 양자컴퓨터가 무엇인지 궁금하신 분들은 주저하지 마시고 신청해주세요!
-
-금전적, 행정적인 지원을 해주신 고려대학교(주관) 양자대학원에 감사 인사 드립니다.
-
-## Support
-
-<img src="./img/support/support2.png" width="300" height="60"/>
-<img src="./img/support/support1.png" width="300" height="300"/>
-
-## 일정
-
-### 전체적인 일정표(진행 날짜 및 시간은 아직 확정이 아니며 10월 초에 확정할 예정)
-
-| 시간(KST)               | 진행 방식 및 장소           | 내용        | 비고                                                  |
-| ----------------------- | --------------------------- | ----------- | ----------------------------------------------------- |
-| 11/2(토) 10:00~12:00    | online                      | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/3(일) 오후 6시 전까지 시청 |
-| 11/3(일) 19:00~21:00 PM | online                      | 워크숍 1    | 실시간 참여 혹은 녹화본 11/4(월) 자정까지 시청        |
-| 11/5(화) 19:00~21:00 PM | online                      | 워크숍 2    | 실시간 참여 혹은 녹화본 11/6(수) 자정까지 시청        |
-| 11/7(목) 19:00~21:00    | offline (장소 TBD)          | 워크숍 3    | 오프라인으로 필수 참여                                |
-| 11/9(토) 10:00~12:00    | online                      | 워크숍 4    | 실시간 참여 혹은 녹화본 11/11(월) 자정까지 시청       |
-| 11/12(화) 19:00~21:00   | online & offline (장소 TBD) | 워크숍 5    | 실시간 참여 혹은 녹화본 11/14(목) 자정까지 시청       |
-| 11/15(금) 18:00~22:00   | offline (장소 TBD)          | Challenge   |                                                       |
-
-**온라인으로 진행되는 워크숍 녹화본은 각 워크숍 이후 제공될 예정입니다.**
-
-**위 표의 비고란에 적힌 내용을 따르지 않을 경우 Challenge 참여가 제한될 수 있습니다**
-
-### ✨ 킥오프 미팅 ✨
-
-_Session Details: 11/2/2024(토), online, 10:00~12:00_
-
-킥오프 미팅은 행사 주최자와 행사 참여자들이 온라인 상에서 처음으로 만나는 자리입니다. Qiskit Fall Fest at Korea University 의 자세한 일정에 대한 안내와 주의사항에 대해 안내드릴 예정입니다. 양자컴퓨터의 역사와 양자컴퓨터의 필요성에 대해서도 가볍게 다룰 것입니다.
-
-### 💡 Qiskit Fall Fest 워크숍 1: 기초적인 선형대수 및 양자 회로 구성법 💡
-
-_Session Details: 11/3/2024(일), online, 19:00~21:00_
-
-첫번째 워크숍에서는 양자컴퓨터에서 연산이 어떻게 작동하는지 이해하기 위해서 필요한 수학적 배경지식 대하여 설명드릴 예정입니다. 이 시간에는 기초 선형대수, 단일 큐빗, 다중 큐빗 상태에 대해 배울 예정입니다. 고등학교 수학 정도만 알고 있어도 내용을 이해하실 수 있도록 기획하였으나, 1학년 수준의 기초 미적분학을 수강하셨거나, 선형대수를 배우신 적 있다면 더 이해하기 쉬우실 것입니다.
-
-### 💡 Qiskit Fall Fest 워크숍 2: 양자컴퓨터로 무엇을 할 수 있을까? 💡
-
-_Session Details: 11/5/2024(화), online, 19:00~21:00_
-
-두번째 워크숍에서는 양자알고리즘 관점에서 양자컴퓨터를 이용하여 우리가 무엇을 할 수 있는지 다룹니다. 그로버 알고리즘(Grover's Algorithm), 양자 원격 전송(Quantum Teleportation)에 대해 자세히 설명드릴 예정입니다.
-
-### 💡 Qiskit Fall Fest 워크숍 3: 연구원 초청 워크숍 💡
-
-_Session Details: 11/7/2024(목), offline 장소 TBD, 19:00~21:00_
-
-TBD
-
-### 💡 Qiskit Fall Fest 워크숍 4: Qiskit 사용 방법 💡
-
-_Session Details: 11/9/2024(토), online, 10:00~12:00_
-
-네번째 워크샵에서는 Qiskit 개발 환경을 설정하고 IBM의 양자 컴퓨터 및 시뮬레이터에서 양자 회로를 실행하는 방법에 대해 설명합니다.
-
-### 💡 Qiskit Fall Fest 워크숍 5: Challenge 행사 시작 전 어떠한 것들을 준비하면 좋을까? 💡
-
-_Session Details: 11/12/2024(화), online & offline 장소 TBD, 19:00~21:00_
-
-다섯번째 워크숍에서는 11/16(토)에 진행되는 Challenge 행사에서 제시되는 도전문제 유형을 안내하고 도전문제 예시를 함께 풀어봅니다. Qiskit 개발 환경 설정에 어려움이 있으신 분들께서는 오프라인으로 오셔서 도움을 받으실 수 있습니다. 또한 Challenge 행상 전에 Qiskit과 양자컴퓨팅에 대해 공부하기 좋은 자료를 추천해드립니다.
-
-### 🎉 Challenge: Main Event 🎉
-
-_Event Details: 11/16/2024(토), offline 장소 TBD, 18:00~22:00_
-
-| time        | content                     |
-| ----------- | --------------------------- |
-| 18:00~18:30 | 개회                        |
-| 18:30       | 도전 문제 공개 및 식사 제공 |
-| 21:30       | 도전 문제 풀기 마감         |
-| 21:30~21:50 | 시상식 준비                 |
-| 21:50~22:00 | 행사 후 설문 및 마무리      |
-
-## 연사 소개
-
-TBD
-
-## ❗안내사항❗
-
-### 이 행사에 참여하기 위해 필요한 배경지식
-
-- 파이썬 코딩 경험
-  - 조건문, 반복문, 함수 문법에 대하여 알고 계시면 됩니다.
-- 수학
-  - 확률이 무엇인지, 스칼라와 벡터의 차이가 무엇인지, 행렬이 무엇인지 알고 계시면 됩니다.
-  - 기초적인 선형대수 지식이 있으면 더욱 좋습니다.
-
-### 참가자 준비물
-
-- 개인 노트북, 충전기
-
-### 참가자에게 제공되는 물품
-
-- 석식, 다과
-- 기념품
-- 수료증(IBM, 고려대학교(주관) 양자대학원)
-
-### IBM Quantum Community [행동강령](https://docs.quantum.ibm.com/open-source/code-of-conduct)
-
-### 등록
-
-- 마감기한: TBD
-- 참가비: TBD
-- 모집 인원: TBD
-- 신청자가 많을 경우 조기 마감될 수 있습니다.
-- 신청서를 성실히 작성하지 않으신 경우 Qiskit Fall Fest 참여가 어려우실 수 있습니다.
-- 참가 신청서: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeI_eoVo3Wdje0CuVzaCoZXRj6Bjvm2L5jy-bKZXz05XmXRCw/viewform?usp=sf_link)
-
-### 시상품
-
-- TBD
-
-### 문의사항 있는 경우
-
-- 아래의 링크를 통해 카카오톡 오픈채팅방에서 문의해주시거나 e-mail을 통해 문의해주시길 바랍니다.
-- open-kakao chatroom: TBD
 - e-mail: kuquickofficial@gmail.com
