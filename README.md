@@ -75,11 +75,11 @@ _Session Details: 11/9/2024(토), online, 10:00~12:00_
 
 _Session Details: 11/12/2024(화), online & offline 장소 TBD, 19:00~21:00_
 
-다섯번째 워크숍에서는 11/16(토)에 진행되는 Challenge 행사에서 제시되는 도전문제 유형을 안내하고 도전문제 예시를 함께 풀어봅니다. Qiskit 개발 환경 설정에 어려움이 있으신 분들께서는 오프라인으로 오셔서 도움을 받으실 수 있습니다. 또한 Challenge 행상 전에 Qiskit과 양자컴퓨팅에 대해 공부하기 좋은 자료를 추천해드립니다.
+다섯번째 워크숍에서는 11/15(금)에 진행되는 Challenge 행사에서 제시되는 도전문제 유형을 안내하고 도전문제 예시를 함께 풀어봅니다. Qiskit 개발 환경 설정에 어려움이 있으신 분들께서는 오프라인으로 오셔서 도움을 받으실 수 있습니다. 또한 Challenge 행상 전에 Qiskit과 양자컴퓨팅에 대해 공부하기 좋은 자료를 추천해드립니다.
 
 ### 🎉 Challenge: Main Event 🎉
 
-_Event Details: 11/16/2024(토), offline 장소 TBD, 18:00~22:00_
+_Event Details: 11/15/2024(금), offline 장소 TBD, 18:00~22:00_
 
 | time        | content                     |
 | ----------- | --------------------------- |
@@ -169,8 +169,8 @@ _11/15/2024(금) 18:10_
 
 ### 등록
 
-- 마감기한: 10/31/2024(목) 23:59
-- 참가비: 20,000
+- 마감기한: 10/30/2024(수) 23:59
+- 참가비: 20,000 (등록 마감 이후 이메일과 문자를 통해 개별적으로 납부 안내할 예정)
 - 모집 인원: 최대 40명
 - 신청자가 많을 경우 조기 마감될 수 있습니다.
 - 신청서를 성실히 작성하지 않으신 경우 Qiskit Fall Fest 참여가 어려우실 수 있습니다.
@@ -180,11 +180,12 @@ _11/15/2024(금) 18:10_
 
 - 상위 3명에게 Qiskit Swag Pack 제공
 - 상위 5명에게 상금 제공
+![Qiskit swag pack](./img/Qiskit_swag_pack.png)
 
 ### 문의사항 있는 경우
 
 - 아래의 링크를 통해 카카오톡 오픈채팅방에서 문의해주시거나 e-mail을 통해 문의해주시길 바랍니다.
-- open-kakao chatroom: TBD
+- open-kakao chatroom: [오픈 카카오톡 링크](https://open.kakao.com/o/sh2utbUg)
 - e-mail: kuquickofficial@gmail.com
 
 ---
@@ -254,22 +255,76 @@ We will explain how to set up the Qiskit development environment and how to run 
 
 _Session Details: 11/12/2024(Tue), online & offline Place TBD, 19:00~21:00_
 
-We will guide you through the types of challenge problems that will be presented during the Challenge event on 11/16(Sat) and solve example problems together. For those who have difficulty setting up the Qiskit development environment, offline support will be available. Additionally, we will recommend useful resources to study Qiskit and quantum computing before the Challenge event.
+We will guide you through the types of challenge problems that will be presented during the Challenge event on 11/15(Fri) and solve example problems together. For those who have difficulty setting up the Qiskit development environment, offline support will be available. Additionally, we will recommend useful resources to study Qiskit and quantum computing before the Challenge event.
 
 ### 🎉 Challenge: Main Event 🎉
 
+_Event Details: 11/15/2024(Fri), offline Place TBD, 18:00~22:00_
+
 | time        | content                                 |
 | ----------- | --------------------------------------- |
-| 18:00~18:30 | Opening                                 |
-| 18:30       | Challenge problem announcement & Dinner |
-| 21:30       | End of challenge problem solving        |
-| 21:30~21:50 | Award ceremony preparation              |
+| 18:00~18:10 | Opening                                 |
+| 18:10~18:40 | Guest speaker session                   |
+| 18:40       | Challenge problem announcement & Dinner |
+| 21:40       | End of challenge problem solving        |
+| 21:40~21:50 | Award ceremony preparation              |
 | 21:50~22:00 | Post-event survey & closing             |
 
 
 ## Speaker
 
-TBD
+### Kickoff meeting
+
+<img src="./img/speakers/speaker1.jpg" width="300" height="300"/>
+
+#### Boseong Kim, Korea Technical Enablement Lead, IBM Quantum
+
+_11/2/2024(Sat) 10:00_
+
+Topic:
+- What is a quantum comptuer?
+- The history of quantum computers and trends in the quantum computing industry
+- Vision of IBM Quantum
+
+### Workshop3
+
+<img src="./img/speakers/speaker2.jpg" width="300" height="400"/>
+
+#### Gunsik Min, Korea University [CIS Lab](https://cislab.korea.ac.kr/)
+
+_11/7/2024(Thu) 18:00_
+
+Topic:
+- Trends of Quantum information science
+- Introduction to the CIS Lab
+
+<img src="./img/speakers/speaker3.jpg" width="300" height="397"/>
+
+#### Yujin Kang, Korea University [CIS Lab](https://cislab.korea.ac.kr/)
+
+_11/7/2024(Thu) 18:30_
+
+Topic:
+- Quantum error occurrence and the QEC and QEM methods for addressing those errors
+
+<img src="./img/speakers/speaker4.jpg" width="252" height="400"/>
+
+#### Emily Jimin Roh, Korea University [AIM Lab](https://aimlab-kuee.github.io/)
+
+_11/7/2024(Thu) 19:10_
+
+Topic:
+- Fast Quantum Convolutional Neural Networks for Low-Complexity Object Detection in Autonomous Driving Applications
+
+### Challenge
+
+#### Eunsid Yoon, Korea University [KU-AQIL Lab](https://aqil.korea.ac.kr)
+
+_11/15/2024(Fri) 18:10_
+
+Topic:
+- Rydberg quantum computer
+  
 
 ## ❗Attendee Guide❗
 
@@ -295,19 +350,21 @@ TBD
 
 ### Registration
 
-- Deadline: TBD
-- Participation fee: TBD
-- Maximum quota of participants: TBD
+- Deadline: 10/30/2024(수) 23:59
+- Participation fee: KRW 20,000 (After the registration deadline, payment instructions will be individually sent via email and text message.)
+- Maximum quota of participants: 40
 - Registration may close early if the number of applicants exceeds the limit.
 - If the application form is not filled out properly, participation in the Qiskit Fall Fest may not be possible.
 - Application form: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeI_eoVo3Wdje0CuVzaCoZXRj6Bjvm2L5jy-bKZXz05XmXRCw/viewform?usp=sf_link)
 
 ### Prizes
 
-- TBD
+- Qiskit Swag Package and certificate of award to the Top 5 scorers
+- Cash prize to the Top 3 scorers
+![Qiskit swag pack](./img/Qiskit_swag_pack.png)
 
 ### If You Have Any Questioon
 
 - Please contact us through the Kakaotalk open chat linked below or via e-mail.
-- Open-kakao chat room: TBD
+- Open-kakao chat room: [Open Kakaotalk link](https://open.kakao.com/o/sh2utbUg)
 - e-mail: kuquickofficial@gmail.com
