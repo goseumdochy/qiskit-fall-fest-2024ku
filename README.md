@@ -6,7 +6,7 @@
 
 ## 환영합니다!
 
-2024 Qiskif Fall Fest at Korea University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 고려대학교 양자정보과학 학술동아리 [QUICK](https://quick-website.github.io/)(QUantum Information Club at Korea University)에서 기획하고 진행합니다. 이 행사는 고려대학교 학생들만을 위한 행사입니다!
+2024 Qiskif Fall Fest at Korea University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 고려대학교 양자정보과학 학술동아리 [QUICK](https://quick.oopy.io/)(QUantum Information Club at Korea University)에서 기획하고 진행합니다. 이 행사는 고려대학교 학생들만을 위한 행사입니다!
 
 Qiskit은 클라우드 시스템을 통해 양자 컴퓨터에 접근하고 양자 회로를 설계할 수 있도록 설계된 IBM이 개발한 오픈 소스 양자 컴퓨팅 프레임워크입니다.
 
@@ -192,7 +192,7 @@ _11/15/2024(금) 18:10_
 
 ## Welcome!!
 
-This is the event page for the 2024 Qiskit Fall Fest at Korea University. Thank you for your interest in our event! This event is hosted by QUICK(QUantum Information Club at Korea University) with the support of IBM Quantum.
+This is the event page for the 2024 Qiskit Fall Fest at Korea University. Thank you for your interest in our event! This event is hosted by [QUICK](https://quick.oopy.io/)(QUantum Information Club at Korea University) with the support of IBM Quantum.
 
 Qiskit is an open-source quantum computing framework developed by IBM, designed to provide access to quantum computers via a cloud system and to facilitate quantum circuit design.
 
