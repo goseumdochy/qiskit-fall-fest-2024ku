@@ -27,15 +27,15 @@ Qiskit은 클라우드 시스템을 통해 양자 컴퓨터에 접근하고 양�
 
 ### 전체적인 일정표
 
-| 시간(KST)             | 진행 방식 및 장소           | 내용        | 비고                                                  |
-| --------------------- | --------------------------- | ----------- | ----------------------------------------------------- |
-| 11/2(토) 10:00~12:00  | online                      | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/3(일) 오후 6시 전까지 시청 |
-| 11/3(일) 19:00~21:00  | online                      | 워크숍 1    | 실시간 참여 혹은 녹화본 11/4(월) 자정까지 시청        |
-| 11/5(화) 19:00~21:00  | online                      | 워크숍 2    | 실시간 참여 혹은 녹화본 11/6(수) 자정까지 시청        |
-| 11/7(목) 18:00~21:00  | offline (장소 TBD)          | 워크숍 3    | 오프라인으로 필수 참여                                |
-| 11/9(토) 10:00~12:00  | online                      | 워크숍 4    | 실시간 참여 혹은 녹화본 11/11(월) 자정까지 시청       |
-| 11/12(화) 19:00~21:00 | online & offline (장소 TBD) | 워크숍 5    | 실시간 참여 혹은 녹화본 11/14(목) 자정까지 시청       |
-| 11/15(금) 18:00~22:00 | offline (장소 TBD)          | Challenge   |                                                       |
+| 시간(KST)             | 진행 방식 및 장소  | 내용        | 비고                                                  |
+| --------------------- | ------------------ | ----------- | ----------------------------------------------------- |
+| 11/2(토) 10:00~12:00  | online             | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/3(일) 오후 6시 전까지 시청 |
+| 11/3(일) 19:00~21:00  | online             | 워크숍 1    | 실시간 참여 혹은 녹화본 11/4(월) 자정까지 시청        |
+| 11/5(화) 19:00~21:00  | online             | 워크숍 2    | 실시간 참여 혹은 녹화본 11/6(수) 자정까지 시청        |
+| 11/7(목) 18:00~21:00  | offline (장소 TBD) | 워크숍 3    | 오프라인으로 필수 참여                                |
+| 11/9(토) 10:00~12:00  | online             | 워크숍 4    | 실시간 참여 혹은 녹화본 11/11(월) 자정까지 시청       |
+| 11/12(화) 19:00~21:00 | online             | 워크숍 5    | 실시간 참여 혹은 녹화본 11/14(목) 자정까지 시청       |
+| 11/15(금) 18:00~22:00 | offline (장소 TBD) | Challenge   |                                                       |
 
 **온라인으로 진행되는 워크숍 녹화본은 각 워크숍 이후 제공될 예정입니다.**
 
@@ -63,7 +63,7 @@ _Session Details: 11/5/2024(화), online, 19:00~21:00_
 
 _Session Details: 11/7/2024(목), offline 장소 TBD, 18:00~21:00_
 
-두번째 워크숍에서는 양자컴퓨터를 이용하여 우리가 무엇을 할 수 있는지, 그리고 양자컴퓨터 관련된 연구분야는 어떠한 것들이 있는지 소개해드릴 예정입니다. 양자정보과학 분야에서 연구하시는 연구원분들을 초빙하여 진행할 예정입니다. 연구원분들께서 진행하고 계신 분야에 대한 소개 및 양자컴퓨터를 사용하여 진행하였던 프로젝트에 대해 소개해주실 예정입니다.
+세번째 워크숍에서는 양자컴퓨터를 이용하여 우리가 무엇을 할 수 있는지, 그리고 양자컴퓨터 관련된 연구분야는 어떠한 것들이 있는지 소개해드릴 예정입니다. 양자정보과학 분야에서 연구하시는 연구원분들을 초빙하여 진행할 예정입니다. 연구원분들께서 진행하고 계신 분야에 대한 소개 및 양자컴퓨터를 사용하여 진행하였던 프로젝트에 대해 소개해주실 예정입니다.
 
 ### 💡 Qiskit Fall Fest 워크숍 4: Qiskit 사용 방법 💡
 
@@ -73,7 +73,7 @@ _Session Details: 11/9/2024(토), online, 10:00~12:00_
 
 ### 💡 Qiskit Fall Fest 워크숍 5: Challenge 행사 시작 전 어떠한 것들을 준비하면 좋을까? 💡
 
-_Session Details: 11/12/2024(화), online & offline 장소 TBD, 19:00~21:00_
+_Session Details: 11/12/2024(화), online, 19:00~21:00_
 
 다섯번째 워크숍에서는 11/15(금)에 진행되는 Challenge 행사에서 제시되는 도전문제 유형을 안내하고 도전문제 예시를 함께 풀어봅니다. Qiskit 개발 환경 설정에 어려움이 있으신 분들께서는 오프라인으로 오셔서 도움을 받으실 수 있습니다. 또한 Challenge 행상 전에 Qiskit과 양자컴퓨팅에 대해 공부하기 좋은 자료를 추천해드립니다.
 
@@ -86,9 +86,9 @@ _Event Details: 11/15/2024(금), offline 장소 TBD, 18:00~22:00_
 | 18:00~18:10 | 개회                        |
 | 18:10~18:40 | 연사 초청 세션              |
 | 18:40       | 도전 문제 공개 및 식사 제공 |
-| 21:40       | 도전 문제 풀기 마감         |
-| 21:40~21:50 | 시상식 준비                 |
-| 21:50~22:00 | 행사 후 설문 및 마무리      |
+| 21:20       | 도전 문제 풀기 마감         |
+| 21:20~21:30 | 시상식 준비                 |
+| 21:30~22:00 | 시상 및 마무리              |
 
 ## 연사 소개
 
@@ -144,15 +144,29 @@ _11/15/2024(금) 18:10_
 주제:
 - Rydberg quantum computer
 
+### Challenge 시상 및 폐회
+
+<img src="./img/speakers//speaker5.png" width="300" height="300"/>
+
+#### 박소미, APAC Quantum Innovation Centers, IBM Quantum
+
+_11/15/2024(금) 21:30_
+
+주제:
+- 시상
+- IBM 행사 및 교육 컨텐츠 소개
+
 
 ## ❗안내사항❗
 
 ### 이 행사에 참여하기 위해 필요한 배경지식
 
 - 파이썬 코딩 경험
-  - 조건문, 반복문, 함수 문법에 대하여 알고 계시면 됩니다.
+  - 조건문, 반복문, 함수 문법 등의 기초적인 파이썬 문법을 알고 계셔야 합니다.
+  - class를 다뤄본 경험이 있으시면 더욱 좋습니다.
 - 수학
-  - 확률이 무엇인지, 스칼라와 벡터의 차이가 무엇인지, 행렬이 무엇인지 알고 계시면 됩니다.
+  - 고등학교 수준의 확률, 벡터에 대한 지식이 있으셔야 합니다.
+  - 행렬이 무엇인지 알고, 행렬 곱셈을 어떻게 하는지 알고 있어야 합니다.
   - 기초적인 선형대수 지식이 있으면 더욱 좋습니다.
 
 ### 참가자 준비물
@@ -179,7 +193,7 @@ _11/15/2024(금) 18:10_
 ### 시상품
 
 - 상위 3명에게 Qiskit Swag Pack 제공
-- 상위 5명에게 상금 제공
+- 상위 5명에게 상품 제공
 ![Qiskit swag pack](./img/Qiskit_swag_pack.png)
 
 ### 문의사항 있는 경우
@@ -211,15 +225,15 @@ We look forward to meeting the participants at the 2024 Qiskit Fall Fest at Kore
 
 ### Summarized timetable
 
-| Time(KST)              | type & place                 | content         | note                                                                      |
-| ---------------------- | ---------------------------- | --------------- | ------------------------------------------------------------------------- |
-| 11/2(Sat) 10:00~12:00  | online                       | kickoff meeting | Participate in real time or watch the recording until 18:00 on 11/3(Sun)  |
-| 11/3(Sun) 19:00~21:00  | online                       | Workshop 1      | Participate in real time or watch the recording unitl 23:59 on 11/4(Mon)  |
-| 11/5(Tue) 19:00~21:00  | online                       | Workshop 2      | Participate in real time or watch the recording unitl 23:59 on 11/6(Wed)  |
-| 11/7(Thu) 18:00~21:00  | offline (Place TBD)          | Workshop 3      | Participate in offline                                                    |
-| 11/9(Sat) 10:00~12:00  | online                       | Workshop 4      | Participate in real time or watch the recording unitl 23:59 on 11/11(Mon) |
-| 11/12(Tue) 19:00~21:00 | online & offline (Place TBD) | Workshop 5      | Participate in real time or watch the recording unitl 23:59 on 11/14(Thu) |
-| 11/15(Fri) 18:00~22:00 | offline (Place TBD)          | Challenge       |                                                                           |
+| Time(KST)              | type & place        | content         | note                                                                      |
+| ---------------------- | ------------------- | --------------- | ------------------------------------------------------------------------- |
+| 11/2(Sat) 10:00~12:00  | online              | kickoff meeting | Participate in real time or watch the recording until 18:00 on 11/3(Sun)  |
+| 11/3(Sun) 19:00~21:00  | online              | Workshop 1      | Participate in real time or watch the recording unitl 23:59 on 11/4(Mon)  |
+| 11/5(Tue) 19:00~21:00  | online              | Workshop 2      | Participate in real time or watch the recording unitl 23:59 on 11/6(Wed)  |
+| 11/7(Thu) 18:00~21:00  | offline (Place TBD) | Workshop 3      | Participate in offline                                                    |
+| 11/9(Sat) 10:00~12:00  | online              | Workshop 4      | Participate in real time or watch the recording unitl 23:59 on 11/11(Mon) |
+| 11/12(Tue) 19:00~21:00 | online              | Workshop 5      | Participate in real time or watch the recording unitl 23:59 on 11/14(Thu) |
+| 11/15(Fri) 18:00~22:00 | offline (Place TBD) | Challenge       |                                                                           |
 
 ### ✨ Kickoff meeting ✨
 
@@ -243,7 +257,7 @@ We will explore what can be achieved using quantum computers from a quantum algo
 
 _Session Details: 11/7/2024(Thu), offline Place TBD, 18:00~21:00_
 
-TBD
+In the third workshop, we will introduce what we can achieve using quantum computers and explore various research areas related to quantum computing. We will invite researchers in the field of quantum information science to lead this session. They will provide an introduction to the areas they are working on and share insights into projects they have conducted using quantum computers.
 
 ### 💡 Qiskit Fall Fest Workshop 4: How to use Qiskit? 💡
 
@@ -253,7 +267,7 @@ We will explain how to set up the Qiskit development environment and how to run 
 
 ### 💡 Qiskit Fall Fest Workshop 5: What do you have to prepare before starting the challenge? 💡
 
-_Session Details: 11/12/2024(Tue), online & offline Place TBD, 19:00~21:00_
+_Session Details: 11/12/2024(Tue), online, 19:00~21:00_
 
 We will guide you through the types of challenge problems that will be presented during the Challenge event on 11/15(Fri) and solve example problems together. For those who have difficulty setting up the Qiskit development environment, offline support will be available. Additionally, we will recommend useful resources to study Qiskit and quantum computing before the Challenge event.
 
@@ -266,9 +280,9 @@ _Event Details: 11/15/2024(Fri), offline Place TBD, 18:00~22:00_
 | 18:00~18:10 | Opening                                 |
 | 18:10~18:40 | Guest speaker session                   |
 | 18:40       | Challenge problem announcement & Dinner |
-| 21:40       | End of challenge problem solving        |
-| 21:40~21:50 | Award ceremony preparation              |
-| 21:50~22:00 | Post-event survey & closing             |
+| 21:20       | End of challenge problem solving        |
+| 21:20~21:30 | Award ceremony preparation              |
+| 21:30~22:00 | Post-event survey & closing             |
 
 
 ## Speaker
@@ -316,7 +330,7 @@ _11/7/2024(Thu) 19:10_
 Topic:
 - Fast Quantum Convolutional Neural Networks for Low-Complexity Object Detection in Autonomous Driving Applications
 
-### Challenge
+### Challenge Opening
 
 #### Eunsid Yoon, Korea University [KU-AQIL Lab](https://aqil.korea.ac.kr)
 
@@ -324,7 +338,17 @@ _11/15/2024(Fri) 18:10_
 
 Topic:
 - Rydberg quantum computer
-  
+
+### Challenge Close
+
+<img src="./img/speakers//speaker5.png" width="300" height="300"/>
+
+#### Somi Park, APAC Quantum Innovation Centers, IBM Quantum
+
+_11/15/2024(Fri) 21:30_
+
+Topic:
+- Introduce IBM events and educational contents
 
 ## ❗Attendee Guide❗
 
@@ -359,8 +383,8 @@ Topic:
 
 ### Prizes
 
-- Qiskit Swag Package and certificate of award to the Top 5 scorers
-- Cash prize to the Top 3 scorers
+- Qiskit Swag Package to the Top 3 scorers
+- Prize to the Top 5 scorers
 ![Qiskit swag pack](./img/Qiskit_swag_pack.png)
 
 ### If You Have Any Questioon
